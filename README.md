@@ -23,11 +23,6 @@ ItemList.js: Componente responsável pela renderização da lista de itens.
 Como Executar o Projeto
 Pré-requisitos
 Node.js e npm (ou yarn) instalados na sua máquina.
-Passos para Configuração
-Clone este repositório:
-
-git clone https://github.com/seu_usuario/meu_projeto.git
-Navegue até o diretório do projeto:
 
 cd meu_projeto
 Instale as dependências:
